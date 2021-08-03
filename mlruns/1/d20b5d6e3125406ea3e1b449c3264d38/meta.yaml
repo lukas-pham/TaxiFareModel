@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tu/code/lukas-pham/TaxiFareModel/mlruns/1/d20b5d6e3125406ea3e1b449c3264d38/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d20b5d6e3125406ea3e1b449c3264d38
+run_uuid: d20b5d6e3125406ea3e1b449c3264d38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627733213636
+status: 1
+tags: []
+user_id: unknown
